@@ -1,10 +1,8 @@
 ```diff
-- STATUS OF THE PROJECT: ONGOING (for Feb 2021)
++ STATUS OF THE PROJECT: FINISHED (Feb 2021)
 ```
 
 # MotionDetector
 
-This motion detector script was made with Python in 2019.
-I am planning to give it a little push, as I would like to add a face recognition feature to it.
-
-The project is planned to be started in February.
+This motion detector script was made with Python in Feb 2021.
+This is an old project, including an useful image resize script.
